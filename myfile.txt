@@ -1,0 +1,25 @@
+대표키워드:UFC
+
+# UFC 경기 일정
+경기일정:UFC 300,2024-03-15,Las Vegas,Nevada,Main Event: Jon Jones vs. Stipe Miocic
+경기일정:UFC Fight Night,2024-02-20,London,England,Main Event: Leon Edwards vs. Colby Covington
+경기일정:UFC 299,2024-01-10,Abu Dhabi,UAE,Main Event: Islam Makhachev vs. Charles Oliveira
+
+# 선수 데이터
+선수:Jon Jones,Light Heavyweight,Jackson-Wink MMA,27-1-0,KO:10,TKO:4,Submission:6
+선수:Stipe Miocic,Heavyweight,Strong Style Fight Team,20-4-0,KO:15,TKO:3,Submission:0
+선수:Leon Edwards,Welterweight,Team Renegade BJJ,20-3-0,KO:7,TKO:1,Submission:3
+선수:Islam Makhachev,Lightweight,Eagles MMA,24-1-0,KO:4,TKO:2,Submission:11
+선수:Conor McGregor,Lightweight,SBG Ireland,22-6-0,KO:19,TKO:1,Submission:1
+
+# 체급 데이터
+체급:Flyweight,Bantamweight,Featherweight,Lightweight,Welterweight,Middleweight,Light Heavyweight,Heavyweight
+
+# 데이터 필터링 기준
+필터링:KO,TKO,Submission,Decision
+
+# 기능 설명
+안내:이 챗봇은 UFC 경기 일정, 선수 데이터 조회, 체급별 검색, 승리 방식 필터링 기능을 지원합니다. 예를 들어, 다가오는 UFC 경기를 알려줘, 존 존스의 전적을 보여줘, KO로 승리한 선수들을 보여줘와 같은 질문을 할 수 있습니다.
+
+# 추가 예시 데이터
+사용법:챗봇은 실시간으로 최신 UFC 정보를 검색하거나 특정 선수 및 경기 데이터를 제공할 수 있습니다. 원하는 정보를 자연스럽게 물어보세요!
